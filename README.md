@@ -17,3 +17,4 @@ Questões de diferentes perspectivas podem surgir como:
 - Quais são os temas mais emprestados? E os menos?
 
 Com estas e outras informações será possível entender o cenário e apresentá-lo à diretoria das bibliotecas, para que possam tomar melhores decisões na melhoria da infraestrutura, dos recursos e processos da unidade de informação.
+
