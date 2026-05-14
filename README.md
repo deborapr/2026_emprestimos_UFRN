@@ -18,6 +18,4 @@ Questões de diferentes perspectivas podem surgir como:
 
 Com estas e outras informações será possível entender o cenário e apresentá-lo à diretoria das bibliotecas, para que possam tomar melhores decisões na melhoria da infraestrutura, dos recursos e processos da unidade de informação.
 
-![[image-9.png]]
-
-<img src="[https://i.ibb.co/39N1Z1GR/output.png]" alt="Plot 1">
+<img width="874" height="538" alt="immagine" src="https://github.com/user-attachments/assets/88b86cf1-4a24-4016-9e0b-b1ccc4e97da3" />
