@@ -20,3 +20,5 @@ Com estas e outras informações será possível entender o cenário e apresent�
 
 
 <img  alt="immagine" src="https://i.ibb.co/39N1Z1GR/output.png" />
+
+
