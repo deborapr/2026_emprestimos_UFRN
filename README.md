@@ -18,3 +18,4 @@ Questões de diferentes perspectivas podem surgir como:
 
 Com estas e outras informações será possível entender o cenário e apresentá-lo à diretoria das bibliotecas, para que possam tomar melhores decisões na melhoria da infraestrutura, dos recursos e processos da unidade de informação.
 
+![[image-9.png]]
